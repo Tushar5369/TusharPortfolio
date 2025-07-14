@@ -1019,7 +1019,8 @@ section:nth-child(odd) .animate.scroll,
 
 @media (max-width: 991px) {
     .header {
-        padding: 2rem 4%;
+/*         padding: 2rem 4%; */
+        background: transparent;
     }
 
     section {
